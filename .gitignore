@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.log
+clicker_log.txt
+
+.venv/
+venv/
+
+build/
+dist/
+*.spec
+*.exe
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
